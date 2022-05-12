@@ -18,8 +18,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
     $ gem install blog_portfolio_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+BlogViewTool::Render.copyright 'Alex Vlasov', 'All rights reserved'
+```
 
 ## Development
 
