@@ -11,6 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = 'Various view specific methods for applications I use.'
   spec.description = 'Providers generated HTML data for Rails applications.'
   spec.homepage = 'https://youthful-johnson-d3ed35.netlify.app/'
+  spec.required_ruby_version = '>= 2.7.0'
   spec.license = 'MIT'
 
   # Specify which files should be added to the gem when it is released.
