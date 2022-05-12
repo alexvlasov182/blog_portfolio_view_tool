@@ -6,7 +6,7 @@
 
 Install the gem and add to the application's Gemfile by executing:
 ```ruby
-    gem add blog_portfolio_view_tool
+    gem 'blog_portfolio_view_tool'
 ```
 
 ```ruby
