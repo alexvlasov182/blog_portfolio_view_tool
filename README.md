@@ -10,7 +10,7 @@ Install the gem and add to the application's Gemfile by executing:
 ```
 
 ```ruby
-    bundle
+    $ bundle
 ```
 
 If bundler is not being used to manage dependencies, install the gem by executing:
