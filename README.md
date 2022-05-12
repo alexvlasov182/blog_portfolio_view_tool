@@ -15,7 +15,9 @@ Install the gem and add to the application's Gemfile by executing:
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install blog_portfolio_view_tool
+```ruby
+    $ gem install 'blog_portfolio_view_tool'
+```
 
 ## Usage
 ```ruby
